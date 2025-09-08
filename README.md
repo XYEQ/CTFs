@@ -1,2 +1,2 @@
 # CTFs
-Writeups for CTFs (WIP)
+Writeups for CTFs
